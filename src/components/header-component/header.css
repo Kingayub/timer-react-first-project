@@ -1,0 +1,21 @@
+.nav_bar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 57px;
+}
+
+.blue-char-logo {
+    display: inline;
+    color: #003399;
+}
+
+.orange-chars-logo {
+    display: inline;
+    color: #F27C0F;
+}
+
+.header-menu a {
+    padding-left: 30px;
+    text-decoration: none;
+    color: #003399;
+}

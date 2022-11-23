@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    margin-top: 257px;
+}
+
+.footer-logo-first-char {
+    display: inline;
+    color: rgba(0, 0, 0, 0.6);
+    ;
+}
+
+.footer-logo-last_chars {
+    display: inline;
+    color: rgba(0, 0, 0, 0.3);
+    padding-right: 30px;
+}
+
+.footer-nav a {
+    text-decoration: none;
+}
+
+.footer-nav {
+    display: flex;
+    gap: 30px;
+}
+
+.footer-nav a:last-child {
+    padding-right: 103px;
+}

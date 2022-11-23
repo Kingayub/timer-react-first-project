@@ -1,0 +1,38 @@
+.number {
+    width: 182px;
+    height: 339px;
+    color: #F27C0F;
+    font-weight: 400;
+    font-size: 288px;
+    line-height: 338px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 55px;
+
+}
+
+button {
+    height: 58px;
+    width: 200px;
+}
+
+.btn1 {
+    background-color: #003399;
+    color: white;
+
+}
+
+.btn2 {
+    background-color: #F27C0F;
+    color: white;
+
+}
+
+.btns3 {
+    background-color: #E5E5E5;
+}
